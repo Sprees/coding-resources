@@ -104,6 +104,6 @@
 #### React Context API
 - [React Context | ReactJS](https://reactjs.org/docs/context.html#reactcreatecontext)
 - [React Context | Scotch](https://scotch.io/bar-talk/exciting-new-features-react-163-bye-componentwillreceiveprops-hello-new-context-api)
-### E2E Testing
+#### E2E Testing
 - Testing Framework: [Cypress.io](https://www.cypress.io/)
 - Testing Framework: [PhantomJS](https://github.com/ariya/phantomjs)
